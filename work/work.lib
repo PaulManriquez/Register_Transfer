@@ -1,0 +1,61 @@
+timestamp=1659495575648
+
+[~A]
+LastVerilogToplevel=FileRegister_TB
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*1494*3013
+
+[~MFT]
+0=8|0work.mgf|3013|0
+1=6|1work.mgf|7458|0
+3=12|3work.mgf|6702|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c9216c2c35249fce1642af9273ea49a3174f5
+
+[FileRegister]
+A/FileRegister=22|../design.sv|8|1*4797
+BinL64/FileRegister=3*4128
+R=../design.sv|8
+SLP=3*4654
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|7d7b9ccf704d5571719c65159fcbdb6cc4527ba842427ddda9b344ad04a38ae55bb434791a6f3760752e7d4f66916cb3
+
+[FileRegister_TB]
+A/FileRegister_TB=22|../testbench.sv|5|1*7458
+BinL64/FileRegister_TB=3*4868
+R=../testbench.sv|5
+SLP=3*6702
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|e9ebe1980171707436c5c6db59d8e97092e2daba2a3a04c586a669daf7b6e84987e9574065c15ac21708c636cb51b207
+
+[Mux]
+A/Mux=22|../Mux.sv|1|1*390
+BinL64/Mux=3*174
+R=../Mux.sv|1
+SLP=3*969
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|a038af1b8cd514bf1a61126c45a8a0e4b65c3f8b709c94192b5ace6111c65495
+
+[Register]
+A/Register=22|../Register.sv|1|1*1881
+BinL64/Register=3*1232
+R=../Register.sv|1
+SLP=3*2078
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|7363ea9b581f91c08034b355da367b5eb4470a4173a9ccfce999ce8608f2fc7b9f547ad90e860b85ca50d510df49c625
+
+[Tri_State]
+A/Tri_State=22|../Tri_State.sv|1|1*3620
+BinL64/Tri_State=3*2405
+R=../Tri_State.sv|1
+SLP=3*3925
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|2f325bbbc47abafd7406119cba56d03a58d9984342618000ea3765d6c9556b5c041133a15dd5bf11e71081642aa78a32
+
+[~U]
+$root=12|0*0|
+FileRegister=12|0*947|
+FileRegister_TB=12|0*1261||0x10
+Mux=12|0*198|
+Register=12|0*439|
+Tri_State=12|0*707|

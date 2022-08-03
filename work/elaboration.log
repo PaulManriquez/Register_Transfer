@@ -1,0 +1,27 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2022-08-02 22:59:36
+
+Elaboration top modules:
+Verilog Module                FileRegister_TB
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+FileRegister_TB         | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+FileRegister            | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Mux                     | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Register                | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+Tri_State               | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
